@@ -22,7 +22,7 @@
   </tr>
   <tr>
     <td align=center>
-      <a href="https://github.com/nanyang88/dongtai">动态新闻入口（测试）</a>
+      <a href="https://github.com/clearsky99/xinwen">动态新闻入口（测试）</a>
   </tr>
   <tr>
     <td align=center>
