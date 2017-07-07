@@ -38,7 +38,7 @@
   </tr>
   <tr>
     <td align=center>
-      <a href="https://github.com/clearsky99/pac/blob/master/README.md">手动设置浏览器，访问海外网站</a><br/>
+      <a href="https://github.com/clearsky99/pac/blob/master/README.md">手动设置浏览器，访问海外网站</a><br/>
       各地网络情况不同，还可试试这种方法。<br/>
       希望您能访问到平时看不到的网站。
    </tr>
