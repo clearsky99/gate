@@ -18,7 +18,7 @@
   </tr>
   <tr>
     <td align=center>
-      <a href="https://github.com/clearsky99/xinwen/blob/master/README.md">动态新闻入口（测试）</a>
+      <a href="https://github.com/clearsky99/news/blob/master/README.md">动态新闻入口（测试）</a>
   </tr>
   <tr>
     <td align=center>
