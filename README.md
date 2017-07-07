@@ -1,7 +1,7 @@
 <table>
  <tr>
  <td align=center>
-      #### 翻墙通道<br/>
+      翻墙通道<br/>
  </tr>
  <tr>
     <td align=center>
