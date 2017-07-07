@@ -3,11 +3,6 @@
     <td align=center><img src="https://cloud.githubusercontent.com/assets/11880933/13434984/f430fae2-e012-11e5-814f-c2df1e82b247.jpg" /></td>
   </tr>
   <tr>
-    <td align=center>
-      欢迎来到门户网页，请收藏<br/>
-    </td>
-  </tr>
-  <tr>
     <td align=center>请尝试不同入口通道，进入首页<br/>
       <a href="https://rawgit.com/onorm/up/master/oGate.htm?from=oGate">入口</a>
       <a href="https://s3.eu-west-2.amazonaws.com/ogatel/oGate.htm?from=oGate">入口</a>
