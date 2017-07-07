@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td align=center>
-      增强上网软件（绿色电脑版）<br/><a href="https://git.io/fgp">https://git.io/fgp</a><br/>
+      翻墙软件（绿色电脑版）<br/><a href="https://git.io/fgp">https://git.io/fgp</a><br/>
       <a href="https://raw.githubusercontent.com/ogate/up/master/Tools/FG.zip">备用下载地址</a><br/> 
       软件无需安装，解压缩到一个文件夹里，<br/>
       点击程序，找到服务器后会自动打开网页，<br/>
@@ -36,7 +36,7 @@
   </tr>
   <tr>
     <td align=center>
-      <a href="https://github.com/clearsky99/pac">手动设置浏览器，访问更多网站</a><br/>
+      <a href="https://github.com/clearsky99/pac">手动设置浏览器，访问海外网站</a><br/>
       各地网络情况不同，还可试试这种方法。<br/>
       希望您能访问到平时看不到的网站。
    </tr>
