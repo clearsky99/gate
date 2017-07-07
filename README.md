@@ -4,12 +4,11 @@
   </tr>
   <tr>
     <td align=center>
-      欢迎来到固定网址页面，请收藏<br/>
-      https://git.io/ogate<br/>
-     </td>
+      欢迎来到门户网页，请收藏<br/>
+    </td>
   </tr>
   <tr>
-    <td align=center>请尝试不同入口，进入首页<br/>
+    <td align=center>请尝试不同入口通道，进入首页<br/>
       <a href="https://rawgit.com/onorm/up/master/oGate.htm?from=oGate">入口</a>
       <a href="https://s3.eu-west-2.amazonaws.com/ogatel/oGate.htm?from=oGate">入口</a>
       <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?from=oGate">入口</a><br/>
