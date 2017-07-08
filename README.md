@@ -22,24 +22,4 @@
       先点击右上角，选择浏览器打开<br/>
     </td>
   </tr>
-  <tr>
-    <td align=center>
-      <a href="https://github.com/clearsky99/pac/blob/master/README.md">手动设置浏览器，访问海外网站</a><br/>
-      各地网络情况不同，还可试试这种方法<br/>
-      希望您能访问到平时看不到的网站<br/>
-    </td>
-  </tr>
-  <tr>
-    <td align=center>
-      < 在线精选视频 ><br/>
-      <a href="http://s3.ap-northeast-2.amazonaws.com/fwqzhenx1002/zhen/wh-mp4.html">十几年前的一场疑案</a><br/>
-      <a href="http://s3.ap-northeast-2.amazonaws.com/fwqzhenx1002/zhen/sszj-mp4.html">医院背后的秘密</a><br/>
-      <a href="http://s3.ap-northeast-2.amazonaws.com/fwqzhenx1005/zhen/wmgswl-mp4.html">我们告诉未来（电视片）</a><br/>
-    </td>
-  </tr>
-  <tr>
-    <td align=center>
-      <a href="https://github.com/clearsky99/gate/wiki">< 在线相册 ></a><br/>
-    </td>
-  </tr>  
 </table>
