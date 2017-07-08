@@ -1,9 +1,9 @@
 <table>
- <tr>
- <td align=center>
+  <tr>
+    <td align=center>
       翻墙通道<br/>
- </tr>
- <tr>
+  </tr>
+  <tr>
     <td align=center>
       请尝试不同入口通道，進入首页<br/>
       <a href="https://rawgit.com/onorm/up/master/oGate.htm?from=oGate">入口</a>
@@ -18,10 +18,6 @@
   </tr>
   <tr>
     <td align=center>
-      <a href="https://github.com/clearsky99/news/blob/master/README.md">动态新闻入口（测试）</a>
-  </tr>
-  <tr>
-    <td align=center>
       < 在线精选视频 ><br/>
       <a href="http://s3.ap-northeast-2.amazonaws.com/fwqzhenx1002/zhen/wh-mp4.html">十几年前的一场疑案</a><br/>
       <a href="http://s3.ap-northeast-2.amazonaws.com/fwqzhenx1002/zhen/sszj-mp4.html">医院背后的秘密</a><br/>
@@ -34,12 +30,14 @@
       <a href="https://raw.githubusercontent.com/ogate/up/master/Tools/FG.zip">备用下载地址</a><br/>
       软件无需安装，解压缩到一个文件夹里<br/>
       点击程序，找到服务器后会自动打开网页<br/>
-      软件自动更新，适合长期使用</td>
+      软件自动更新，适合长期使用
+     </td>
   </tr>
   <tr>
     <td align=center>
       <a href="https://github.com/clearsky99/pac/blob/master/README.md">手动设置浏览器，访问海外网站</a><br/>
       各地网络情况不同，还可试试这种方法<br/>
-      希望您能访问到平时看不到的网站</td>
+      希望您能访问到平时看不到的网站
+     </td>
    </tr>
 </table>
