@@ -39,8 +39,7 @@
   </tr>
   <tr>
     <td align=center>
-      < 在线相册 ><br/>
-      <a href="https://github.com/clearsky99/gate/wiki">老照片</a><br/>
+      <a href="https://github.com/clearsky99/gate/wiki">< 在线相册 ></a><br/>
     </td>
   </tr>  
 </table>
